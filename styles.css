@@ -1,18 +1,13 @@
 body {
   background-color: #283149;
+  color: #DBEDF3;
   text-align: center;
+  font-family: "Arvo", cursive;
 }
 
 #title {
   font-size: 5rem;
-  color: #DBEDF3;
-  font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-}
-
-#subTitle {
-  color: #DBEDF3;
-  font-family: "Arvo", cursive;
 }
 
 .w {
@@ -56,7 +51,6 @@ body {
   outline: none;
   border: 10px solid #404B69;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
   color: #DA0463;
@@ -67,11 +61,8 @@ body {
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: white;
 }
 
 footer {
-  color: #DBEDF3;
-  font-size: 1.3rem;
-  font-family: "Arvo", cursive;
+  font-family: sans-serif;
 }
